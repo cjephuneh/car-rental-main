@@ -24,7 +24,7 @@ function Footer() {
                 carrental@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; carrental@gmail.com
+                  &nbsp; calebjephuneh@gmail.com
                 </a>
               </li>
 
@@ -33,9 +33,9 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://xpeedstudio.com/"
+                  href="https://jephunneh.com/"
                 >
-                  Design by XpeedStudio
+                  Design by cjephuneh
                 </a>
               </li>
             </ul>

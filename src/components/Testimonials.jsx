@@ -32,8 +32,8 @@ function Testimonials() {
                   <div className="all-testimonials__box__name__profile">
                     <img src={Img2} alt="user_img" />
                     <span>
-                      <h4>Parry Hotter</h4>
-                      <p>Belgrade</p>
+                      <h4>Jones Mbogholi</h4>
+                      <p>Kenya</p>
                     </span>
                   </div>
                 </div>
@@ -51,8 +51,8 @@ function Testimonials() {
                   <div className="all-testimonials__box__name__profile">
                     <img src={Img3} alt="user_img" />
                     <span>
-                      <h4>Ron Rizzly</h4>
-                      <p>Novi Sad</p>
+                      <h4>Solomon Odingo </h4>
+                      <p>South Sudan</p>
                     </span>
                   </div>
                 </div>
